@@ -2,7 +2,7 @@
 
 ### White-Label Web, AI & Security Engineering Partner for Agencies
 
-We help digital marketing, SEO, and creative agencies scale their technical delivery without adding full-time engineering overhead. Operating fully NDA-ready across US, UK, and Australian timezones, we act as your behind-the-scenes engineering team—from rapid MVP builds to legacy migrations and codebase security hardening.
+We help agencies scale their technical delivery without adding full-time engineering overhead. Operating fully NDA-ready across US, UK, and Australian timezones, we act as your behind-the-scenes engineering team—from rapid MVP builds to legacy migrations and codebase security hardening.
 
 ---
 
