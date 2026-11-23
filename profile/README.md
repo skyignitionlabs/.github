@@ -2,7 +2,7 @@
 
 ### White-Label Web, AI & Security Engineering Partner for Agencies
 
-We help agencies scale their technical delivery without adding full-time engineering overhead. Operating fully NDA-ready across US, UK, and Australian timezones, we act as your behind-the-scenes engineering team—from rapid MVP builds to legacy migrations and codebase security hardening.
+We help agencies scale their technical delivery without adding full-time engineering overhead. Operating fully NDA ready across US, UK, and Australian timezones, we act as your behind-the-scenes engineering team from rapid MVP builds to legacy migrations and codebase security hardening.
 
 ---
 
@@ -38,4 +38,4 @@ We help agencies scale their technical delivery without adding full-time enginee
 
 - 🌐 **Website & Live Demos:** [skyignitionlabs.com](https://skyignitionlabs.com)
 - 🔍 **Free Technical Audit:** Request a complimentary security & performance audit for an existing client build
-- 🤝 **Leadership:** [Faizan Khan](https://www.linkedin.com/in/withfaizan/) (Growth & Partnerships) • [Talha Shaikh](https://github.com/TalhaShaikh150) (Head Developer & Full-Stack Engineer)
+- 🤝 **Co-Founders:** [Faizan Khan](https://www.linkedin.com/in/withfaizan/) (Growth & Partnerships) • [Talha Shaikh](https://github.com/TalhaShaikh150) (Head Developer & Full-Stack Engineer)
